@@ -1,7 +1,7 @@
-# World Happiness Report Data Analysis
+# Analyzing World Happiness Report (2015-2019)
 
 ## Description
-This project focuses on analyzing and visualizing the World Happiness Report dataset, which is a comprehensive survey of global happiness levels. The dataset contains information about happiness scores and rankings for various countries, along with factors that contribute to happiness such as economic production, social support, life expectancy, freedom, absence of corruption, and generosity. The analysis aims to uncover insights regarding the happiest (and least happy) countries, factors influencing happiness, changes in rankings over time, and significant variations in happiness levels.
+World Happiness Report is a survey that ranks countries according to how content and happy their residents think they are. Using quantitative measures, the report analyses six qualitative characteristics to determine how they affect a country’s population’s happiness: wealth, health, social support, freedom, generosity and perceptions of corruption. The analysis aims to uncover insights regarding the happiest (and least happy) countries, factors influencing happiness, changes in rankings over time, and significant variations in happiness levels.
 
 ## Table of Contents
 - [Background](#background)
